@@ -1,0 +1,2 @@
+# CovidAPI
+Covid API
