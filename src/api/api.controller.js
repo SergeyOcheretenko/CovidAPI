@@ -1,6 +1,6 @@
 'use strict';
 
-const ApiService = require('./services/api.service');
+const ApiService = require('./api.service');
 
 class Controller {
     async getAllData(req, res) {
